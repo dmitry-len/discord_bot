@@ -1,1 +1,1 @@
-Бот для дискорда, который делится картинками из интернета и наказывает провинившихся.
+A discord bot that shares pictures from the Internet and punishes the guilty
